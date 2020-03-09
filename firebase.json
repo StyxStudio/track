@@ -4,7 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "site": "book-styx-studio",
+    "site": "track-styx-studio",
     "public": "build",
     "ignore": [
       "firebase.json",
