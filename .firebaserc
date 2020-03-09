@@ -1,7 +1,7 @@
 {
   "projects": {
     "default": "safeplus-1510600335532"
-  }
+  },
   "targets": {
     "safeplus-1510600335532": {
       "hosting": {
