@@ -5,6 +5,7 @@
   },
   "hosting": {
     "public": "build",
+    "site": "styx-studio-track",
     "ignore": [
       "firebase.json",
       "**/.*",
